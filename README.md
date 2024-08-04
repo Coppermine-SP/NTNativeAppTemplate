@@ -1,7 +1,7 @@
 # NTNativeAppTemplate
 <img src="https://img.shields.io/badge/c-064F8C?style=for-the-badge&logo=c&logoColor=white">
 
-**Template for Windows NT Native Subsystem Applications.**
+**Template for Windows NT Native Subsystem Application.**
 
 <img src="img/sample.png" style="width: 80%">
 
